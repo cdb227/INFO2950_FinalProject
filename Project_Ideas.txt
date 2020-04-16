@@ -1,3 +1,8 @@
 1. yearly sea surface temperature (SST) anomalies in a small region to see how changes have developed over the past x amount of years-- 
+https://www.metoffice.gov.uk/hadobs/hadisst/data/HadISST_sst.nc.gz
 
-2.
+2. Analyze the trend in sea ice in a region for summer and winter months over some long timeframe
+https://www.metoffice.gov.uk/hadobs/hadisst/data/HadISST_ice.nc.gz
+
+3. Analyze trend in surface albedo of Greenland to understand the changing coverage of sea ice.
+https://nsidc.org/data/MODGRNLD/versions/1
